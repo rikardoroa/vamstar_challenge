@@ -21,5 +21,8 @@
 ## Note
 * If you Want to create a xml file, the following CLI command should be used:  **_pytest myfile.py -rA --junitxml="testReport.xml"_**
 
+## Note
+* for this test , it's necessary install this two python libraries: **_pytest and pytest-html_**
+
 
 ###### enjoy!
