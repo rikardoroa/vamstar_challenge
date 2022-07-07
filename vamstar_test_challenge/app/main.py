@@ -1,3 +1,6 @@
+#python script by rikardoroa
+#just python it!
+
 import numpy as np
 import pandas as pd
 import os
